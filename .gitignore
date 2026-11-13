@@ -1,0 +1,27 @@
+# .gitignore for the public LeetCode repo. Only source code and the two .md files go up.
+
+# --- Build output (rebuild from the .cpp files) ---
+*.exe
+*.out
+a.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.gcm
+gcm.cache/
+bin/
+build/
+
+# --- Editor and system clutter ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Never commit secrets ---
+.env
+.env.*
+*.pem
+*.key
