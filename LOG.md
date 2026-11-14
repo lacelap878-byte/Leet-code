@@ -12,3 +12,4 @@ Example line: `| 2026-11-14 | A | 1. Two Sum | arrays-hashing | alone | 35 | fir
 | Date | Part | What | Pattern | Result | Minutes | Note |
 |---|---|---|---|---|---|---|
 | 2026-11-14 | A | 1. Two Sum | arrays-hashing | hint | 10 | Double loop. j = i + 1 checks each pair once. Redo later with a hash map. |
+| 2026-11-14 | A | 217. Contains Duplicate | arrays-hashing | alone | 4 | It had the same principle as the previous excerise. |
