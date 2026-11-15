@@ -34,6 +34,7 @@ Syntax and language facts. Files in `cpp/`.
 | [For each loop](cpp/for-each-loop.md) | `for (char c : s)` walks one thing, item by item | ✓ | Knew it; refreshed in 242 Valid Anagram, 15 Nov 2026 |
 | [Increment and decrement](cpp/increment-decrement.md) | `x++` adds 1, `x--` takes 1 away, also on one array box | ✓ | 242 Valid Anagram, 15 Nov 2026 |
 | [Letters are numbers](cpp/letters-are-numbers.md) | `c - 'a'` turns a letter into a box number 0 to 25 |  | 242 Valid Anagram, 15 Nov 2026 |
+| [Initialising arrays](cpp/initialising-arrays.md) | An array made inside a function starts with junk; `{}` sets every box to 0 |  | 242 Valid Anagram, 15 Nov 2026 |
 
 ## Complexity
 
