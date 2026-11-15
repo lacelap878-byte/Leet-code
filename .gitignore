@@ -1,4 +1,4 @@
-# .gitignore for the public LeetCode repo. Only source code and the two .md files go up.
+# .gitignore for the public LeetCode repo. Only source code and Markdown notes go up.
 
 # --- Build output (rebuild from the .cpp files) ---
 *.exe

@@ -14,18 +14,20 @@ No AI-written solutions. AI only explains, after an honest attempt.
 ## Layout
 
 ```
-solutions/<pattern>/<number>-<name>.cpp
+submissions/<pattern>/<number>-<Name>.cpp
+Learned/
+LOG.md
 ```
 
-Example: `solutions/arrays-hashing/0001-two-sum.cpp`
-
-`LOG.md` has one line per practice session.
+- `submissions/`: my solutions. Example: `submissions/array-hashing/0001-Two_Sum.cpp`. Numbers have four digits so the files stay in order.
+- `Learned/`: everything I learn for the first time, filed by idea. Start at `Learned/README.md`.
+- `LOG.md`: one line per practice session.
 
 ## Order of patterns
 
 Easy problems first, one pattern at a time:
 
-1. arrays-hashing
+1. array-hashing
 2. two-pointers
 3. sliding-window
 4. stack
