@@ -17,3 +17,4 @@ Example line: `| 2026-11-14 | A | 1. Two Sum | arrays-hashing | alone | 35 | fir
 | 2026-11-16 | A | 49. Group Anagrams | arrays-hashing | hint | 60+ | Correct, slow version (TLE). Fast version next. |
 | 2026-11-17 | A | 347. Top K Frequent Elements | arrays-hashing | hint | 60+ | Correct, still need to work on a lot of concepts doesn't look easy. |
 | 2026-11-18 | A | 271. Encode and Decode Strings | arrays-hashing | hint | 60+ | Correct, today was better than yesterday it was more intuitive to work with, tomorrow hopefully I can work through all old solutions and still do a problem. |
+| 2026-11-19 | A | 238. Product of Array Except Self | arrays-hashing | hint | 60+ | Correct, I have a long road ahead of me if I actually want to be good at programming. |
